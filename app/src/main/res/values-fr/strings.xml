@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MarcianitoAndroid</string>
+    <string name="app_titulo">Bienvenue</string>
+    <string name="app_texto_boton">Entrer</string>
+</resources>

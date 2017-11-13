@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarcianitoAndroid</string>
+    <string name="app_titulo">Bienvenido</string>
+    <string name="app_texto_boton">Entrar</string>
+</resources>
